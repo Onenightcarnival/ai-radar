@@ -248,6 +248,43 @@ html {
   z-index: 0;
 }
 
+/* ===== Doc layout: outline on the left, wider content =====
+   VitePress's default scoped rules (e.g. `.container[data-v-...]`) have
+   higher specificity than ours, so `!important` is the cleanest override. */
+@media (min-width: 960px) {
+  .VPDoc.has-aside .container {
+    max-width: min(1600px, calc(100vw - 64px)) !important;
+    padding: 32px 32px 128px !important;
+  }
+
+  .VPDoc.has-aside .aside {
+    order: -1 !important;
+    max-width: 240px !important;
+    padding-left: 0 !important;
+    padding-right: 32px !important;
+    margin: 0 32px 0 0 !important;
+    border-left: none !important;
+    border-right: 1px solid var(--vp-c-divider) !important;
+  }
+
+  .VPDoc.has-aside .content {
+    flex-grow: 1 !important;
+    max-width: none !important;
+    padding: 0 !important;
+  }
+
+  .VPDoc.has-aside .content-container {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+}
+
+/* Outline alignment with new left placement */
+.VPDocAside .VPDocAsideOutline {
+  border-left: none;
+  padding-left: 0;
+}
+
 /* Page transition */
 .VPContent {
   animation: page-enter 0.4s ease;

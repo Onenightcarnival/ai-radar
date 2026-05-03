@@ -15,3 +15,6 @@ dist/
 node_modules/
 .vitepress/cache/
 .vitepress/dist/
+
+# Claude Code local config
+.claude/
