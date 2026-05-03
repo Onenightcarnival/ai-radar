@@ -10,3 +10,8 @@ Thumbs.db
 # Generated exports that do not need source control
 exports/
 dist/
+
+# Node / VitePress
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
