@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# Local scratch files
+.env
+.env.*
+*.tmp
+*.log
+
+# Generated exports that do not need source control
+exports/
+dist/
