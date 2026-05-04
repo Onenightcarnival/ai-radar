@@ -10,6 +10,10 @@ title: 报告索引
 - [周报](./github/weekly/)
 - [月报](./github/monthly/)
 
+### 周报
+
+- [2026-W18](github/weekly/2026/2026-W18.md)
+
 ## arXiv
 
 - [日报](./arxiv/daily/)
