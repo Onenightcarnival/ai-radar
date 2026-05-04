@@ -19,3 +19,7 @@ title: 报告索引
 - [日报](./arxiv/daily/)
 - [周报](./arxiv/weekly/)
 - [月报](./arxiv/monthly/)
+
+### 最新日报
+
+- [2026-05-01](./arxiv/daily/2026/2026-05-01.md)
