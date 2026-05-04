@@ -6,6 +6,8 @@ Thumbs.db
 .env.*
 *.tmp
 *.log
+.cache/
+.idea/
 
 # Generated exports that do not need source control
 exports/
