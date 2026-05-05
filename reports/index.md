@@ -35,3 +35,7 @@ title: 报告索引
 - [日报](./anthropic/daily/)
 - [周报](./anthropic/weekly/)
 - [月报](./anthropic/monthly/)
+
+### 最新日报
+
+- [2026-05-05](./anthropic/daily/2026/2026-05-05.md)
