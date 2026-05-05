@@ -19,8 +19,8 @@ export default defineConfig({
     '.github/**',
   ],
 
-  // GitHub Pages: deploys to https://onenightcarnival.github.io/ai-radar/
-  base: '/ai-radar/',
+  // GitHub Pages uses /ai-radar/; Cloudflare Workers/Pages deploys at domain root.
+  base: process.env.VITEPRESS_BASE ?? '/ai-radar/',
 
   head: [
     ['meta', { name: 'theme-color', content: '#0a0a0f' }],
