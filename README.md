@@ -44,4 +44,4 @@ Agent 生成报告后，按信息源和周期保存到对应目录：
 - Anthropic 周报：`reports/anthropic/weekly/YYYY/YYYY-Www.md`
 - Anthropic 月报：`reports/anthropic/monthly/YYYY/YYYY-MM.md`
 
-如果 agent 提交归档结果，commit message 中需要把该 agent 作为 co-author。
+如果 agent 提交本仓库的任何内容，commit message 中都需要把该 agent 作为 co-author。
