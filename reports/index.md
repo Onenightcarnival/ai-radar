@@ -29,3 +29,9 @@ title: 报告索引
 ### 最新周报
 
 - [2026-W18](./arxiv/weekly/2026/2026-W18.md)
+
+## Anthropic
+
+- [日报](./anthropic/daily/)
+- [周报](./anthropic/weekly/)
+- [月报](./anthropic/monthly/)

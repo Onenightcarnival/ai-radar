@@ -2,7 +2,7 @@ import { createContentLoader } from 'vitepress'
 
 export interface ReportEntry {
   url: string
-  source: 'github' | 'arxiv'
+  source: 'github' | 'arxiv' | 'anthropic'
   period: 'daily' | 'weekly' | 'monthly'
   /** Raw filename without extension, e.g. "2026-05-03", "2026-W18", "2026-05" */
   slug: string
@@ -29,12 +29,12 @@ function isoWeekToDate(year: number, week: number): Date {
 function parseEntry(rawUrl: string): ReportEntry | null {
   // rawUrl looks like "/reports/github/daily/2026/2026-05-03"
   const match = rawUrl.match(
-    /^\/reports\/(github|arxiv)\/(daily|weekly|monthly)\/(\d{4})\/([^/]+)$/,
+    /^\/reports\/(github|arxiv|anthropic)\/(daily|weekly|monthly)\/(\d{4})\/([^/]+)$/,
   )
   if (!match) return null
   const [, source, period, , slug] = match as unknown as [
     string,
-    'github' | 'arxiv',
+    'github' | 'arxiv' | 'anthropic',
     'daily' | 'weekly' | 'monthly',
     string,
     string,

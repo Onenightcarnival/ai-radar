@@ -17,6 +17,7 @@ const periodLabel = {
 const sourceLabel = {
   github: 'GitHub',
   arxiv: 'arXiv',
+  anthropic: 'Anthropic',
 }
 
 const filtered = computed(() =>

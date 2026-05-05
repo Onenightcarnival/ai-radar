@@ -17,7 +17,7 @@ onMounted(() => {
     <h1 class="hero-name">
       <span class="hero-name-clip">AI Radar</span>
     </h1>
-    <p class="hero-subtitle">把每天值得关注的开源动向和论文，凝成可读的日报、周报、月报</p>
+    <p class="hero-subtitle">把每天值得关注的开源动向、论文和模型公司动态，凝成可读的日报、周报、月报</p>
   </div>
 </template>
 

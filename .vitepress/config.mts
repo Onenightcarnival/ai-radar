@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'AI Radar',
-  description: '多资讯源 AI 信息站 · GitHub / arXiv 日报 · 周报 · 月报',
+  description: '多资讯源 AI 信息站 · GitHub / arXiv / Anthropic 日报 · 周报 · 月报',
   lang: 'zh-CN',
   appearance: 'force-dark',
   cleanUrls: true,
@@ -42,6 +42,14 @@ export default defineConfig({
           { text: '日报', link: '/reports/arxiv/daily/' },
           { text: '周报', link: '/reports/arxiv/weekly/' },
           { text: '月报', link: '/reports/arxiv/monthly/' },
+        ],
+      },
+      {
+        text: 'Anthropic',
+        items: [
+          { text: '日报', link: '/reports/anthropic/daily/' },
+          { text: '周报', link: '/reports/anthropic/weekly/' },
+          { text: '月报', link: '/reports/anthropic/monthly/' },
         ],
       },
     ],
