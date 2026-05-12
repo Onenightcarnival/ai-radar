@@ -56,3 +56,7 @@ title: 报告索引
 - [2026-05-07](./anthropic/daily/2026/2026-05-07.md)
 - [2026-05-06](./anthropic/daily/2026/2026-05-06.md)
 - [2026-05-05](./anthropic/daily/2026/2026-05-05.md)
+
+### 最新周报
+
+- [2026-W20](./anthropic/weekly/2026/2026-W20.md)
