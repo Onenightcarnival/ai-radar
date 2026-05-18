@@ -25,6 +25,7 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W21](./github/weekly/2026/2026-W21.md)
 - [2026-W20](./github/weekly/2026/2026-W20.md)
 - [2026-W18](./github/weekly/2026/2026-W18.md)
 
