@@ -40,6 +40,10 @@ title: 报告索引
 - [2026-W20](./github/weekly/2026/2026-W20.md)
 - [2026-W18](./github/weekly/2026/2026-W18.md)
 
+### 最新月报
+
+- [2026-05](./github/monthly/2026/2026-05.md)
+
 ## arXiv
 
 - [日报](./arxiv/daily/)
