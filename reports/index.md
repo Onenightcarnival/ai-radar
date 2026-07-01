@@ -75,6 +75,7 @@ title: 报告索引
 
 ### 最新月报
 
+- [2026-06](./github/monthly/2026/2026-06.md)
 - [2026-05](./github/monthly/2026/2026-05.md)
 
 ## arXiv
