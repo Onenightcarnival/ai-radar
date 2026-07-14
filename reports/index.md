@@ -122,6 +122,7 @@ title: 报告索引
 
 ### 最新日报
 
+- [2026-07-13](./anthropic/daily/2026/2026-07-13.md)
 - [2026-07-12](./anthropic/daily/2026/2026-07-12.md)
 - [2026-07-11](./anthropic/daily/2026/2026-07-11.md)
 - [2026-07-10](./anthropic/daily/2026/2026-07-10.md)
@@ -194,6 +195,7 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W29](./anthropic/weekly/2026/2026-W29.md)
 - [2026-W28](./anthropic/weekly/2026/2026-W28.md)
 - [2026-W27](./anthropic/weekly/2026/2026-W27.md)
 - [2026-W25](./anthropic/weekly/2026/2026-W25.md)
