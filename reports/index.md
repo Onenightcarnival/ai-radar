@@ -88,6 +88,7 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W31](./github/weekly/2026/2026-W31.md)
 - [2026-W30](./github/weekly/2026/2026-W30.md)
 - [2026-W29](./github/weekly/2026/2026-W29.md)
 - [2026-W28](./github/weekly/2026/2026-W28.md)
