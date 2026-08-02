@@ -243,4 +243,5 @@ title: 报告索引
 
 ### 最新月报
 
+- [2026-08](./anthropic/monthly/2026/2026-08.md)
 - [2026-06](./anthropic/monthly/2026/2026-06.md)
