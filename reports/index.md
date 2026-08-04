@@ -234,6 +234,7 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W32](./anthropic/weekly/2026/2026-W32.md)
 - [2026-W30](./anthropic/weekly/2026/2026-W30.md)
 - [2026-W29](./anthropic/weekly/2026/2026-W29.md)
 - [2026-W28](./anthropic/weekly/2026/2026-W28.md)
