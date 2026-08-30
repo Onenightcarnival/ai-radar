@@ -274,12 +274,16 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W35](./anthropic/weekly/2026/2026-W35.md)
+- [2026-W34](./anthropic/weekly/2026/2026-W34.md)
 - [2026-W33](./anthropic/weekly/2026/2026-W33.md)
 - [2026-W32](./anthropic/weekly/2026/2026-W32.md)
+- [2026-W31](./anthropic/weekly/2026/2026-W31.md)
 - [2026-W30](./anthropic/weekly/2026/2026-W30.md)
 - [2026-W29](./anthropic/weekly/2026/2026-W29.md)
 - [2026-W28](./anthropic/weekly/2026/2026-W28.md)
 - [2026-W27](./anthropic/weekly/2026/2026-W27.md)
+- [2026-W26](./anthropic/weekly/2026/2026-W26.md)
 - [2026-W25](./anthropic/weekly/2026/2026-W25.md)
 - [2026-W24](./anthropic/weekly/2026/2026-W24.md)
 - [2026-W23](./anthropic/weekly/2026/2026-W23.md)
