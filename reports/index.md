@@ -162,6 +162,7 @@ title: 报告索引
 
 ### 最新月报
 
+- [2026-09](./github/monthly/2026/2026-09.md)
 - [2026-08](./github/monthly/2026/2026-08.md)
 - [2026-07](./github/monthly/2026/2026-07.md)
 - [2026-06](./github/monthly/2026/2026-06.md)
