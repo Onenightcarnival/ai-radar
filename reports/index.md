@@ -191,6 +191,7 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W45](./github/weekly/2026/2026-W45.md)
 - [2026-W44](./github/weekly/2026/2026-W44.md)
 
 - [2026-W43](./github/weekly/2026/2026-W43.md)
