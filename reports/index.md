@@ -446,6 +446,7 @@ title: 报告索引
 
 ### 最新周报
 
+- [2026-W45](./anthropic/weekly/2026/2026-W45.md)
 - [2026-W44](./anthropic/weekly/2026/2026-W44.md)
 - [2026-W43](./anthropic/weekly/2026/2026-W43.md)
 - [2026-W42](./anthropic/weekly/2026/2026-W42.md)
